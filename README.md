@@ -41,3 +41,7 @@ Python | Pandas | Scikit-learn | Matplotlib | NumPy
 ## 🔗 Connect
 💼 [LinkedIn - Abhineet Singh](https://www.linkedin.com/in/abhineet-s)  
 📁 [GitHub Repository](https://github.com/AbhineetS/Day-14-Stock-Price-Prediction)
+
+---
+
+**Update:** Added dependencies, changelog, and license for version 1.0.0
