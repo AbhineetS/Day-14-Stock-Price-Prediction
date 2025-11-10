@@ -2,4 +2,7 @@ venv/
 __pycache__/
 *.pyc
 .DS_Store
-stock_random_forest.pkl
+stock_random_forest.pkl# Extra ignores
+*.pkl
+__pycache__/
+.DS_Store
