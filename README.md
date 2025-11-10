@@ -38,6 +38,4 @@ Python | Pandas | Scikit-learn | Matplotlib | NumPy
 
 ---
 
----
-
 **Update:** Added dependencies, changelog, and license for version 1.0.0
